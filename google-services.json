@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "983990021551",
+    "firebase_url": "https://testerchatapp-bb01c-default-rtdb.firebaseio.com",
+    "project_id": "testerchatapp-bb01c",
+    "storage_bucket": "testerchatapp-bb01c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983990021551:android:e9f5f4df1c7fb43879535a",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983990021551-1n6im24f14h66o27aue9fvt812nhilfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ukxXmRdT15nwczlp-jh4asUIFK0bZLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983990021551-1n6im24f14h66o27aue9fvt812nhilfv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983990021551-g9q4bsk076686q6ar2ni28avqpbq0262.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
